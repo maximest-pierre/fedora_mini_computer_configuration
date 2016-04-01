@@ -1,1 +1,1 @@
-# fedora_minicomputer_installer
+#Installer to configure my netbook

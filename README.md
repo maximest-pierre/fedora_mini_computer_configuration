@@ -1,5 +1,8 @@
 #Config file for my netbook
 
+##Prerequirements
+* git
+
 ##Contains
 * i3
 * vim and my config

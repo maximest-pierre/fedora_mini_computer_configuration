@@ -8,5 +8,5 @@
 * vim and my config
 
 ##Instruction
-1. Instal fedora minimal
+1. Install fedora minimal
 2. Run bash script
